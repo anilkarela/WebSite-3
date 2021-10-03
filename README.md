@@ -1,4 +1,4 @@
-## How to add a dApp
+3## How to add a dApp
 
 The overall process is as follows:
 
